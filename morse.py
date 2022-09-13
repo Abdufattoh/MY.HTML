@@ -1,10 +1,3 @@
-'''
-Created By: Sats Sehgal
-If you are new to python this is a great project for beginners. 
-If you would like to see a video walkthrough of the code, please visit the following link: https://youtu.be/uB5LzvDCUA4
-
-'''
-
 from playsound import playsound
 import time
 import pyttsx3 as pyttsx
