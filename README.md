@@ -1,2 +1,2 @@
 # Morse
-pip install
+pip install playsound
